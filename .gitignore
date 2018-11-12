@@ -6,3 +6,5 @@ _build/
 !.gitignore
 *.py[co]
 
+
+cim/cim/settings.py
