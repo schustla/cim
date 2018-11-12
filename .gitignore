@@ -1,10 +1,2 @@
-# sphinx build directories
-_build/
-
-# dotfiles
-.*
-!.gitignore
-*.py[co]
-
-
 settings.py
+__pycache__
